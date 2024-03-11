@@ -1,0 +1,2 @@
+csv files are the export result of SQL result.
+SQL files are the SQL queries.
